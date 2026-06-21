@@ -1,4 +1,3 @@
-
 Project Overview
 This project analyzes 1M+ US flight records to evaluate airline performance, flight delays, cancellations, airport operations, and travel trends**. The dashboard transforms raw flight data into meaningful business insights using PostgreSQL and Power BI.
 
@@ -43,4 +42,16 @@ Developed an interactive dashboard that helps monitor airline performance, under
 Dashboard Screenshot
 <img width="1086" height="274" alt="image" src="https://github.com/user-attachments/assets/960b0310-d823-482b-a521-a6225845a436" />
 
+Repository Notes :
+
+Due to GitHub file size limitations, the Power BI (.pbix) file and large dataset are not included in this repository.
+
+This repository contains:
+
+* PostgreSQL SQL Script
+* Project Report (PDF)
+* Dashboard Screenshots
+* Project Documentation (README)
+
+The complete Power BI dashboard can be shared upon request.
 

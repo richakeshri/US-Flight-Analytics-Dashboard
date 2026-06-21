@@ -44,5 +44,3 @@ Dashboard Screenshot
 <img width="1086" height="274" alt="image" src="https://github.com/user-attachments/assets/960b0310-d823-482b-a521-a6225845a436" />
 
 
-
-<img width="1086" height="274" alt="image" src="https://github.com/user-attachments/assets/dbafb802-6186-405d-8a5a-dddc7fbda650" />

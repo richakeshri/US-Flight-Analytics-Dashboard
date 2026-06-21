@@ -1,5 +1,5 @@
 Project Overview
-This project analyzes 1M+ US flight records to evaluate airline performance, flight delays, cancellations, airport operations, and travel trends**. The dashboard transforms raw flight data into meaningful business insights using PostgreSQL and Power BI.
+This project analyzes 1M+ US flight records to evaluate airline performance, flight delays, cancellations, airport operations, and travel trends. The dashboard transforms raw flight data into meaningful business insights using PostgreSQL and Power BI.
 
 Business Objective
 - Analyze flight performance and operational efficiency.
